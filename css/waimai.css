@@ -1,0 +1,280 @@
+
+@font-face {
+  font-family: 'iconfont';  /* project id 561407 */
+  src: url('https://at.alicdn.com/t/font_561407_8ysvdghczbyb9.eot');
+  src: url('//at.alicdn.com/t/font_561407_8ysvdghczbyb9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_561407_8ysvdghczbyb9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_561407_8ysvdghczbyb9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_561407_8ysvdghczbyb9.svg#iconfont') format('svg');
+}
+.header{
+	
+	height: 1.8rem;
+	background-color: red;
+	font-family: 'iconfont';
+	background-color: #0096FF;
+	font-size: 0.6rem;
+	color: white;
+	line-height: 1.8rem;
+}
+.tuijian{
+	height: 2.22rem;
+	width: 100%;
+	/*background-color: red;*/
+	border-bottom: 0.01rem solid #EFEFEF;
+	position: relative;
+}
+.tjtitle{
+	width: 100%;
+	height: 1.74rem;
+	
+	
+}
+/*.tjtitle p{
+	float: left;
+	text-align: center;
+	font-size: 0.4rem;
+	margin-left: 0.3rem;
+	margin-right: 0.3rem;
+	/*line-height: 1.71rem;*/
+
+
+.midtitle{
+	width: 100%;
+	text-align: center;
+	float: left;
+	font-size: 0.4rem;
+	margin-top: 0.54rem;
+}
+.midtitle{
+	margin-top: 0.35rem;
+	float: left;
+}
+.midtitle span{
+	
+	font-size: 0.36rem;
+	margin-right: 1.37rem;
+	color: #636563;
+	
+}
+#item3{
+	margin-right: 0rem;
+}
+.xian{
+	width: 0.6rem;
+	height: 0.02rem;
+	background-color: black;
+	float: left;
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	left: 0rem;
+	right: 0rem;
+	margin:auto;
+}
+.dian{
+	width: 0.04rem;
+	height: 0.04rem;
+	/*background-color: black;*/
+	border-radius: 0.02rem;
+	float: left;
+	margin-left: 0.06rem;
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	left: 0rem;
+	right: 0rem;
+	margin:auto;
+}
+.ditem1{
+	margin-right: 0.06rem;
+	margin-left: 0rem;
+}
+.dianpu{
+	width: 100%;
+	padding-left: 0.27rem;
+	padding-right: 0.27rem;
+	padding-top: 0.46rem;
+	height: 4.78rem;
+	border-bottom: 0.01rem solid yellow;
+	/*background-color: green;*/
+}
+.tupian{
+	width: 1.77rem;
+	height: 100%;
+	/*background-color: red;*/
+	float: left;
+}
+.tupian img{
+	width: 1.77rem;
+	height: 1.77rem;
+}
+.dpright{
+	float: left;
+	width: 8.49rem;
+	height: 100%;
+	/*background-color: pink;*/
+	padding-left: 0.32rem;
+	position: relative;
+}
+.dpright h1{
+	font-size: 0.46rem;
+	margin-top: 0.08rem;
+}
+.sale span{
+	font-family: 'iconfont';
+	float: left;
+	line-height: 0.3rem;
+	font-size: 0.22rem;
+	margin-right: 0.07rem;
+	color: #FFB200;
+}
+#star{
+	color: #EFEFEF;
+}
+.sale{
+	height: 0.3rem;
+	/*background-color: red;*/
+	color: #636563;
+	margin-top: 0.32rem;
+	margin-bottom: 0.34rem;
+}
+.sale i{
+	line-height: 0.3rem;
+	float: left;
+	font-size: 0.3rem;
+	margin-left: 0.07rem;
+	margin-right: 0.24rem;
+}
+.sale a{
+	line-height: 0.3rem;
+	float: left;
+	font-size: 0.3rem;
+	/*//margin-left: 0.07rem;*/
+	margin-right: 0.24rem;
+}
+.send{
+	font-size: 0.3rem;
+	color: #636563;
+	margin-bottom: 0.38rem;
+}
+#xiegang{
+	margin-left: 0.13rem;
+	margin-right: 0.13rem;
+
+}
+.faifan{
+	font-family: 'iconfont';
+	font-size: 0.28rem;
+	margin-bottom: 0.22rem;
+}
+.faifan span{
+	border:0.02rem solid #EFEFEF;
+	padding-top:0.05rem;
+	padding-left: 0.05rem;
+	padding-right: 0.05rem;
+	padding-bottom: 0.03rem;
+}
+.shoudan span{
+	border:0.02rem solid #E7EFDE ;
+	font-size: 0.26rem;
+	padding-top:0.05rem;
+	padding-left: 0.05rem;
+	padding-right: 0.05rem;
+	padding-bottom: 0.03rem;
+	background-color: #EFFBE7;
+	border-radius: 0.01rem;
+	float: left;
+	margin-right: 0.13rem;
+
+}
+.shoudan i{
+	font-size: 0.3rem;
+	float: left;
+	color: #636563;
+}
+.shoudan{
+	float: left;
+	width: 100%;
+	margin-bottom: 0.2rem;
+
+}
+.fasong{
+	width: 2.28rem;
+	height: 100%;
+	/*background-color: yellow;*/
+	position: absolute;
+	top:0rem;
+	right: 0rem;
+	float: left;
+}
+.fasong span{
+	
+}
+.fs1{
+	position: absolute;
+	width: 0.06rem;
+	height:0.06rem;
+	/*right: 0.02rem;*/
+	left: 1.96rem;
+	font-family: 'iconfont';
+	float: right;
+	line-height: 0.06rem;
+	margin-top: 0.2rem;
+	color: black;
+	font-size: 0.06rem;
+	z-index: 999;
+}
+.all{
+	width: 100%;
+	/*height: 23.64rem;*/
+	/*height: 13.7rem;*/
+	height: 13rem;
+	overflow: scroll;
+	
+}
+.topall{
+
+	width: 100%;
+	height: 3.68em;
+	
+	
+}
+.fs2{
+	padding-top: 0.06rem;
+	padding-bottom: 0.04rem;
+	padding-right: 0.06rem;
+	padding-left: 0.07rem;
+	border:0.01rem solid #94CBFF;
+	font-size: 0.24rem;
+	border-radius: 0.1rem;
+	position: absolute;
+	top:0.82rem;
+}
+.fs3{
+	position: absolute;
+	top:0.82rem;
+	left: 1.06rem;
+	background-color: #94CBFF;
+}
+.fs4{
+	font-size: 0.24rem;
+	position: absolute;
+	top:1.53rem;
+	right: 0;
+	left: 0;
+	margin:0 auto;
+
+}
+.fs5{
+	font-family: 'iconfont';
+	font-size: 0.12rem;
+	color: #CECFCE;
+
+	position: absolute;
+	right: 0.07rem;
+	top:2.93rem;
+}
+body{
+	background-color: #F7F7F7;
+}
