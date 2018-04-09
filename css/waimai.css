@@ -96,7 +96,7 @@
 	padding-right: 0.27rem;
 	padding-top: 0.46rem;
 	height: 4.78rem;
-	border-bottom: 0.01rem solid yellow;
+	border-bottom: 0.01rem solid #EFEFEF;
 	/*background-color: green;*/
 }
 .tupian{
@@ -186,6 +186,7 @@
 	border-radius: 0.01rem;
 	float: left;
 	margin-right: 0.13rem;
+	color: #738663;
 
 }
 .shoudan i{
